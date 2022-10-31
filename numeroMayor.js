@@ -1,4 +1,4 @@
-var prompt = require('prompt-sync')();
+var prompt = require('prompt-sync')(); // Para leer por consola
 //Leer el primer numero
 const n1 = parseInt(prompt("Escribe el numero 1: "));
 //Leer el segundo numero

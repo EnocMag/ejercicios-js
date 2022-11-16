@@ -1,5 +1,6 @@
 var prompt = require('prompt-sync')();
 
+// El factorial de n! de un número entero
 const n = parseInt(prompt('Introduce número: '));
 let res = 1;
 
@@ -15,5 +16,3 @@ if (n >= 0){
 } else {
     console.log('Número invalido');
 }
-
-

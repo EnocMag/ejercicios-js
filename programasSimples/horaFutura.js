@@ -12,7 +12,5 @@ if (res > 24 && res < 48){
 if (res > 48){
     res = res - 48;
 }
-// 72? 96?
-
 
 console.log('En '+ hFutura + ' horas, el reloj marcara las '+ res);
